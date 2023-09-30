@@ -1,5 +1,7 @@
 Diamond Price Prediction Project
 
+![Diamond Image](https://audhiaprilliant.github.io/assets/images/21-0.jpg)
+
 Description
 This project aims to predict the price of diamonds based on various features such as carat, cut, color, clarity, and depth. The dataset used for training and testing the model contains information about diamonds, including their characteristics and corresponding prices. By applying machine learning algorithms to this dataset, we can build a predictive model to estimate the price of diamonds based on their features.
 
